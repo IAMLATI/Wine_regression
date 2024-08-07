@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/ENDTOEND/MLFLOW/mlruns/0/410ba336985248c180d934f4d5a0ba90/artifacts
+end_time: 1723056251491
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 410ba336985248c180d934f4d5a0ba90
+run_name: adorable-calf-291
+run_uuid: 410ba336985248c180d934f4d5a0ba90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723056233436
+status: 3
+tags: []
+user_id: User
