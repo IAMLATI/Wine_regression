@@ -2,7 +2,7 @@
 
 ## DAGSHUB:
 MLFLOW_TRACKING_URI=https://dagshub.com/IAMLATI/Wine_regression.mlflow
-MLFLOW_TRACKING_USERNAME=IAMLATI
+MLFLOW_TRACKING_USERNAME=IAMLATI.
 
 
 python script.py
